@@ -22,7 +22,7 @@
 ## 🚀 秒级部署（3步搞定）
 
 ```bash
-git clone https://github.com/yourname/coinpilot-trading-bot.git
+git clone https://github.com/broamapro200dde/coinpilot-trading-bot.git
 cd coinpilot-trading-bot
 pip install -r requirements.txt
 python main.py
